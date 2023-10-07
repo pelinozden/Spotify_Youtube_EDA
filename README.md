@@ -38,3 +38,7 @@ The dataset includes information on songs from various artists worldwide. For ea
 - YouTube video description
 - Licensing information
 - Official video status
+
+## Results and Analysis
+The Jupyter Notebook Spotify_Youtube_EDA.ipynb contains a detailed analysis of the dataset, including data visualizations and statistical insights. The analysis aims to answer questions about the relationships between Spotify music statistics and YouTube video views, as well as uncover trends and patterns in the data.
+
